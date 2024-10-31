@@ -1,0 +1,341 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SeoStack 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-17 18:47+0200\n"
+"PO-Revision-Date: 2017-07-17 19:05+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl\n"
+
+#: src/SeoStackWP/Admin/AdminFactory.php:53
+msgid "SEOStack"
+msgstr "SEOStack"
+
+#: src/SeoStackWP/Admin/AdminFactory.php:63
+#: src/SeoStackWP/Admin/Controllers/DashboardController.php:46
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: src/SeoStackWP/Admin/AdminFactory.php:66
+msgid "Setup now"
+msgstr "Nu instellen"
+
+#: src/SeoStackWP/Admin/AdminFactory.php:68
+msgid "Live search"
+msgstr "Live zoeken"
+
+#: src/SeoStackWP/Admin/AdminFactory.php:69
+msgid "Settings"
+msgstr "Instellingen"
+
+#: src/SeoStackWP/Admin/AdminFactory.php:70
+#: src/SeoStackWP/Admin/Views/settings_reindex_not_indexable.php:26
+#: src/SeoStackWP/Admin/Views/settings_second_not_indexable.php:29
+msgid "Upgrade now"
+msgstr "Nu upgraden"
+
+#: src/SeoStackWP/Admin/AdminFactory.php:109
+msgid "Warning"
+msgstr "Waarschuwing"
+
+#: src/SeoStackWP/Admin/AdminFactory.php:111
+#, php-format
+msgid ""
+"The seostack plugin is activated, but not yet installed on your website. "
+"%sStart the installation%s"
+msgstr ""
+"The SEOStack plugin is actief, maar nog niet geïnstalleerd op je website. "
+"%sStart de installatie%s"
+
+#: src/SeoStackWP/Admin/Controllers/SettingsController.php:66
+msgid "Manage settings"
+msgstr "Beheer instellingen"
+
+#: src/SeoStackWP/Admin/Controllers/SettingsController.php:102
+msgid "Manage live search settings"
+msgstr "Beheer live zoeken instellingen"
+
+#: src/SeoStackWP/Admin/Controllers/SettingsController.php:131
+msgid "SEOStack one time setup"
+msgstr "SEOStack eenmalige setup"
+
+#: src/SeoStackWP/Admin/Controllers/SettingsController.php:172
+#, php-format
+msgid "Something went wrong: %s"
+msgstr "Er ging iets mis: %s"
+
+#: src/SeoStackWP/Admin/Controllers/SettingsController.php:180
+msgid "The API key was saved successfully. Please continue below!"
+msgstr ""
+"De API sleutel is succesvol opgeslagen. Ga alsjeblieft hieronder verder."
+
+#: src/SeoStackWP/Admin/Controllers/SettingsController.php:188
+msgid "SEOStack one time setup - Step 2"
+msgstr "SEOStack eenmalige setup - Stap 2"
+
+#: src/SeoStackWP/Admin/Controllers/SettingsController.php:213
+msgid "SEOStack one time setup - Completed!"
+msgstr "SEOStack eenmalige setup - Afgerond!"
+
+#: src/SeoStackWP/Admin/Controllers/SettingsController.php:214
+msgid "The installation was completed successfully."
+msgstr "De installatie is succesvol afgerond."
+
+#: src/SeoStackWP/Admin/Controllers/SettingsController.php:228
+msgid "SEOStack Reindex"
+msgstr "SEOStack herindexatie"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:8
+#: src/SeoStackWP/Admin/Views/dashboard_installation.php:8
+#: src/SeoStackWP/Admin/Views/settings_reindex.php:10
+msgid "Your API key"
+msgstr "Jouw API sleutel"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:12
+#: src/SeoStackWP/Admin/Views/dashboard_installation.php:12
+msgid "Status"
+msgstr "Status"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:13
+msgid "Active"
+msgstr "Actief"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:16
+#: src/SeoStackWP/Admin/Views/settings.php:32
+msgid "Documents indexed"
+msgstr "Documenten geïndexeerd"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:22
+#: src/SeoStackWP/Admin/Views/settings_reindex_not_indexable.php:33
+#: src/SeoStackWP/Admin/Views/settings_second_not_indexable.php:36
+msgid "Documents on this site"
+msgstr "Documenten op deze website"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:28
+#: src/SeoStackWP/Admin/Views/settings.php:23
+#: src/SeoStackWP/Admin/Views/settings_reindex_not_indexable.php:39
+#: src/SeoStackWP/Admin/Views/settings_second_not_indexable.php:42
+msgid "Documents limit"
+msgstr "Documenten limiet"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:36
+#: src/SeoStackWP/Admin/Views/settings.php:27
+msgid "Upgrade your document limit"
+msgstr "Upgrade je documenten limiet"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:43
+msgid "Popular search terms"
+msgstr "Populaire zoekopdrachten"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:50
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:54
+msgid "WordPress Support forum"
+msgstr "WordPress ondersteuningsforum"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:57
+msgid "Documentation"
+msgstr "Documentatie"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:60
+msgid "Report an issue"
+msgstr "Meld een probleem"
+
+#: src/SeoStackWP/Admin/Views/dashboard.php:63
+msgid "@seostackio on Twitter"
+msgstr "@seostackio op Twitter"
+
+#: src/SeoStackWP/Admin/Views/dashboard_installation.php:13
+msgid "Inactive"
+msgstr "Inactief"
+
+#: src/SeoStackWP/Admin/Views/dashboard_installation.php:18
+msgid "Start the installation"
+msgstr "Start de installatie"
+
+#: src/SeoStackWP/Admin/Views/elements/installation_bar.php:16
+msgid "Step 1: Free API key"
+msgstr "Stap 1: Gratis API sleutel"
+
+#: src/SeoStackWP/Admin/Views/elements/installation_bar.php:17
+msgid ""
+"Get a free API key for using our services. This is needed for indexing your "
+"website."
+msgstr ""
+"Krijg een gratis API sleutel voor het gebruik van onze diensten. Deze is "
+"nodig voor het indexeren van je website."
+
+#: src/SeoStackWP/Admin/Views/elements/installation_bar.php:28
+msgid "Step 2: Indexing your site"
+msgstr "Stap 2: Indexeren van je site"
+
+#: src/SeoStackWP/Admin/Views/elements/installation_bar.php:29
+msgid ""
+"Our search engine has to know your website. Indexing is a process that does "
+"that for you."
+msgstr ""
+"Onze zoekmachine moet je website kennen. Het indexeren is een proces dat het "
+"voor je regelt."
+
+#: src/SeoStackWP/Admin/Views/elements/installation_bar.php:40
+msgid "Step 3: Done!"
+msgstr "Stap 3: Klaar!"
+
+#: src/SeoStackWP/Admin/Views/elements/installation_bar.php:41
+msgid ""
+"You're now good to go! Use the default search widget on your website. The "
+"results should be better!"
+msgstr ""
+"Klaar! Je kan nu gebruik maken van de standaard zoek widget op je website. "
+"De resultaten zullen beter zijn!"
+
+#: src/SeoStackWP/Admin/Views/settings.php:11
+msgid "API key"
+msgstr "API sleutel"
+
+#: src/SeoStackWP/Admin/Views/settings.php:14
+msgid ""
+"This is your auto-generated API key for seostack.io. The api key is used for "
+"communication between this website, and our hosted services."
+msgstr ""
+"Dit is je automatisch gegenereerde API sleutel voor seostack.io. Deze API "
+"sleutel wordt gebruikt voor de communicatie tussen deze website en onze "
+"diensten."
+
+#: src/SeoStackWP/Admin/Views/settings.php:19
+msgid "Webmaster contact email"
+msgstr "Webmaster contact email"
+
+#: src/SeoStackWP/Admin/Views/settings.php:36
+msgid "Start reindex"
+msgstr "Begin herindexatie"
+
+#: src/SeoStackWP/Admin/Views/settings.php:42
+#: src/SeoStackWP/Admin/Views/settings_live_search.php:44
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: src/SeoStackWP/Admin/Views/settings.php:49
+msgid ""
+"Your email is used to generate a API key on SeoStack.io. We will never sell "
+"or share your email address."
+msgstr ""
+"Je email adres wordt gebruikt om een API sleutel aan te maken. We zullen "
+"deze nooit verkopen of delen met derden."
+
+#: src/SeoStackWP/Admin/Views/settings.php:54
+msgid "Generate API key"
+msgstr "Genereer API sleutel"
+
+#: src/SeoStackWP/Admin/Views/settings_first.php:19
+msgid ""
+"Your email is used to generate a API key for the SeoStack services. We will "
+"never sell or share your email address. This key is only used for securing "
+"your documents in our search engine."
+msgstr ""
+"Je email adres wordt gebruikt om een API sleutel aan te maken. We zullen "
+"deze nooit verkopen of delen met derden. Deze sleutel wordt alleen gebruikt "
+"om je documenten te beveiligen in onze zoekmachine."
+
+#: src/SeoStackWP/Admin/Views/settings_first.php:27
+msgid ""
+"Yes, I want to receive the newsletter from seostack.io on a regular basis"
+msgstr "Ja, ik wil graag af en toe de nieuwsbrief van seostack.io ontvangen"
+
+#: src/SeoStackWP/Admin/Views/settings_first.php:34
+msgid "Generate free API key & continue to step 2"
+msgstr "Genereer gratis API sleutel & ga verder naar stap 2"
+
+#: src/SeoStackWP/Admin/Views/settings_first.php:40
+msgid ""
+"We've found an existing API key on this WordPress site. This API key will be "
+"used for the installation."
+msgstr ""
+"We hebben een bestaande API sleutel gevonden op deze WordPress site. Deze "
+"API sleutel zal gebruikt worden voor de installatie."
+
+#: src/SeoStackWP/Admin/Views/settings_first.php:64
+msgid "Continue to step 2"
+msgstr "Ga verder naar stap 2"
+
+#: src/SeoStackWP/Admin/Views/settings_live_search.php:9
+msgid "Live search suggest design"
+msgstr "Live zoeken suggestie design"
+
+#: src/SeoStackWP/Admin/Views/settings_live_search.php:13
+msgid "Background color"
+msgstr "Achtergrondkleur"
+
+#: src/SeoStackWP/Admin/Views/settings_live_search.php:19
+msgid "Border color"
+msgstr "Border kleur"
+
+#: src/SeoStackWP/Admin/Views/settings_live_search.php:25
+msgid "Border size"
+msgstr "Border grootte"
+
+#: src/SeoStackWP/Admin/Views/settings_live_search.php:31
+msgid "Link color"
+msgstr "Link kleur"
+
+#: src/SeoStackWP/Admin/Views/settings_live_search.php:37
+msgid "Link color (:active, :hover)"
+msgstr "Link kleur (:active, :over)"
+
+#: src/SeoStackWP/Admin/Views/settings_reindex.php:25
+#: src/SeoStackWP/Admin/Views/settings_second.php:29
+msgid ""
+"Please wait and DO NOT close this window while indexing your site. This may "
+"take a few minutes."
+msgstr ""
+"Wacht a.u.b. en sluit dit venster NIET af tot het indexeren is afgerond. Dit "
+"heeft wellicht enkele minuten nodig."
+
+#: src/SeoStackWP/Admin/Views/settings_reindex.php:31
+#: src/SeoStackWP/Admin/Views/settings_reindex_not_indexable.php:47
+msgid "Complete reindex"
+msgstr "Herindexatie afronden"
+
+#: src/SeoStackWP/Admin/Views/settings_reindex_not_indexable.php:19
+#: src/SeoStackWP/Admin/Views/settings_second_not_indexable.php:22
+msgid "Failed"
+msgstr "Mislukt"
+
+#: src/SeoStackWP/Admin/Views/settings_reindex_not_indexable.php:19
+#: src/SeoStackWP/Admin/Views/settings_second_not_indexable.php:22
+msgid ""
+"You have too many documents on this site. Please upgrade your API key to "
+"continue."
+msgstr ""
+"Je hebt teveel documenten op deze website. Upgrade alsjeblieft je API "
+"sleutel om verder te gaan."
+
+#: src/SeoStackWP/Admin/Views/settings_second.php:35
+#: src/SeoStackWP/Admin/Views/settings_second_not_indexable.php:50
+msgid "Complete one time setup"
+msgstr "Eenmalige installatie afronden"
+
+#: src/SeoStackWP/Admin/Views/settings_third.php:12
+msgid ""
+"The SeoStack plugin has been activated successfully. You're now able to use "
+"our professional search algorithm and updates."
+msgstr ""
+"De SEOStack plugin is succesvol geactiveerd. Je kan nu gebruik maken van ons "
+"professionele zoekalgoritme en updates."
+
+#: src/SeoStackWP/Admin/Views/settings_third.php:16
+msgid "Continue to dashboard"
+msgstr "Ga verder naar het dashboard"
